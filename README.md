@@ -14,8 +14,7 @@
 
 - Python 3.10+
 - 依赖：`openai>=1.0.0`, `requests>=2.31.0`
-- API 端点：`http://maas-api.cn-huabei-1.xf-yun.com/v1`
-- 模型：`xop3qwen1b7`
+- 模型：`Qwen3-1.7B`
 
 ## 快速开始
 
@@ -108,15 +107,15 @@ python clean_failed_papers.py
 {"id": "...", "failure_reason": "下载失败: 404"}
 ```
 
-## 处理统计
+## 数据统计
 
 | 数据集 | 论文数 | 
 |--------|--------|
 | test | 20 |
 | AI | 38,720 | 
-| CL | 39,000 | 
-| CV | 71,000 |
-| LG | 63,000 | 
+| CL | 13,036 | 
+| CV | 23,612 |
+| LG | 20,863 | 
 
 预期成功率：85-95%
 
