@@ -1,0 +1,124 @@
+{
+  "cs.AI": [
+    {
+      "title": "DMOSpeech: Direct Metric Optimization via Distilled Diffusion Model in\n  Zero-Shot Speech Synthesis",
+      "url": "https://arxiv.org/abs/2410.11097v2",
+      "tex_source": "https://arxiv.org/e-print/2410.11097v2",
+      "category": "cs.AI"
+    },
+    {
+      "title": "The Representation of Meaningful Precision, and Accuracy",
+      "url": "https://arxiv.org/abs/2410.14721v2",
+      "tex_source": "https://arxiv.org/e-print/2410.14721v2",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Differentiable Weightless Neural Networks",
+      "url": "https://arxiv.org/abs/2410.11112v5",
+      "tex_source": "https://arxiv.org/e-print/2410.11112v5",
+      "category": "cs.AI"
+    },
+    {
+      "title": "MoonMetaSync: Lunar Image Registration Analysis",
+      "url": "https://arxiv.org/abs/2410.11118v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11118v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Audio-based Kinship Verification Using Age Domain Conversion",
+      "url": "https://arxiv.org/abs/2410.11120v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11120v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Personalised Feedback Framework for Online Education Programmes Using\n  Generative AI",
+      "url": "https://arxiv.org/abs/2410.11904v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11904v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "3D-Prover: Diversity Driven Theorem Proving With Determinantal Point\n  Processes",
+      "url": "https://arxiv.org/abs/2410.11133v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11133v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "A Scalable Communication Protocol for Networks of Large Language Models",
+      "url": "https://arxiv.org/abs/2410.11905v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11905v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Can Structured Data Reduce Epistemic Uncertainty?",
+      "url": "https://arxiv.org/abs/2410.11141v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11141v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "LLM Unlearning via Loss Adjustment with Only Forget Data",
+      "url": "https://arxiv.org/abs/2410.11143v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11143v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Optimizing Encoder-Only Transformers for Session-Based Recommendation\n  Systems",
+      "url": "https://arxiv.org/abs/2410.11150v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11150v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Latent-Predictive Empowerment: Measuring Empowerment without a Simulator",
+      "url": "https://arxiv.org/abs/2410.11155v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11155v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Search Engines in an AI Era: The False Promise of Factual and Verifiable\n  Source-Cited Responses",
+      "url": "https://arxiv.org/abs/2410.22349v1",
+      "tex_source": "https://arxiv.org/e-print/2410.22349v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Towards General Deepfake Detection with Dynamic Curriculum",
+      "url": "https://arxiv.org/abs/2410.11162v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11162v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Improving Bias in Facial Attribute Classification: A Combined Impact of\n  KL Divergence induced Loss Function and Dual Attention",
+      "url": "https://arxiv.org/abs/2410.11176v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11176v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Interpretability as Compression: Reconsidering SAE Explanations of\n  Neural Activations with MDL-SAEs",
+      "url": "https://arxiv.org/abs/2410.11179v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11179v1",
+      "category": "cs.AI"
+    },
+    {
+      "title": "DARNet: Dual Attention Refinement Network with Spatiotemporal\n  Construction for Auditory Attention Detection",
+      "url": "https://arxiv.org/abs/2410.11181v2",
+      "tex_source": "https://arxiv.org/e-print/2410.11181v2",
+      "category": "cs.AI"
+    },
+    {
+      "title": "A Middle Path for On-Premises LLM Deployment: Preserving Privacy Without\n  Sacrificing Model Confidentiality",
+      "url": "https://arxiv.org/abs/2410.11182v3",
+      "tex_source": "https://arxiv.org/e-print/2410.11182v3",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex\n  Capabilities",
+      "url": "https://arxiv.org/abs/2410.11190v3",
+      "tex_source": "https://arxiv.org/e-print/2410.11190v3",
+      "category": "cs.AI"
+    },
+    {
+      "title": "Empowering Users in Digital Privacy Management through Interactive\n  LLM-Based Agents",
+      "url": "https://arxiv.org/abs/2410.11906v1",
+      "tex_source": "https://arxiv.org/e-print/2410.11906v1",
+      "category": "cs.AI"
+    }
+    ]
+}
